@@ -1,5 +1,5 @@
 # MeetingMind v2.1
-
+> **Developed by :Jay Kanavia**
 ## 🚀 Overview
 MeetingMind v2.1 is an AI-powered meeting summarization tool designed to process meeting transcripts and deliver clear, structured summaries with key points and actionable items. It supports both Google Colab execution and local setup for convenience.
 
