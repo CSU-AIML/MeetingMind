@@ -71,3 +71,4 @@ This project is licensed under the MIT License.
 
 > **Pro Tip:** Using a **T4 GPU** on Colab significantly speeds up processing times!
 
+> **FOR API KEY CONTACT DEVELOPER , IF YOU ARE PART OF CSU - ONLY THEN SECRETS WILL BE PROVIDED**
