@@ -1,0 +1,15 @@
+streamlit>=1.24.0
+openai-whisper
+torch>=2.0.0
+nltk>=3.8.1
+spacy>=3.5.0
+transformers>=4.30.0
+scikit-learn>=1.0.0
+librosa>=0.10.0
+openai
+fpdf>=1.7.2
+reportlab>=4.0.0
+markdown>=3.4.0
+beautifulsoup4>=4.11.0
+jellyfish>=1.0.0
+python-Levenshtein>=0.21.0
